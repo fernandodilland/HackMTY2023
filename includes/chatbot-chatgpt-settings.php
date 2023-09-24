@@ -47,25 +47,7 @@ function chatbot_chatgpt_settings_page_html() {
                 const chatgptStartStatusNewVisitorInput = document.getElementById('chatgptStartStatusNewVisitor');
                 const reminderCount = localStorage.getItem('reminderCount') || 0;
 
-                if (reminderCount < 5) {
-                    const messageBox = document.createElement('div');
-                    messageBox.id = 'rateReviewMessageBox';
-                    messageBox.innerHTML = `
-                    <div id="rateReviewMessageBox" style="background-color: white; border: 1px solid black; padding: 10px; position: relative;">
-                        <div class="message-content" style="display: flex; justify-content: space-between; align-items: center;">
-                            <button id="closeMessageBox" class="dashicons dashicons-dismiss" style="background: none; border: none; cursor: pointer; outline: none; padding: 0; margin-left: 10px;"></button>
-                            
-                        </div>
-                    </div>
-                    `;
-
-                    document.querySelector('#message-box-container').insertAdjacentElement('beforeend', messageBox);
-
-                    document.getElementById('closeMessageBox').addEventListener('click', function() {
-                        messageBox.style.display = 'none';
-                        localStorage.setItem('reminderCount', parseInt(reminderCount, 10) + 1);
-                    });
-                }
+                
             });
         </script>
     
