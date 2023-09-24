@@ -53,7 +53,6 @@ function chatbot_chatgpt_settings_page_html() {
                     messageBox.innerHTML = `
                     <div id="rateReviewMessageBox" style="background-color: white; border: 1px solid black; padding: 10px; position: relative;">
                         <div class="message-content" style="display: flex; justify-content: space-between; align-items: center;">
-                            <span>If you and your visitors are enjoying having this chatbot on your site, please take a moment to <a href="https://wordpress.org/support/plugin/chatbot-chatgpt/reviews/" target="_blank">rate and review this plugin</a>. Thank you!</span>
                             <button id="closeMessageBox" class="dashicons dashicons-dismiss" style="background: none; border: none; cursor: pointer; outline: none; padding: 0; margin-left: 10px;"></button>
                             
                         </div>
