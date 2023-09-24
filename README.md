@@ -26,7 +26,7 @@
 An example is conducted using information obtained from a national bank (Mexican) to establish parameters and create a financial "Coach" that primarily preloads the context of investment types and relevant yield information.
 The user is primarily allowed to provide their general information, such as age, monetary amount capable of investing, timeframe, and goals, so that ChatGPT has the necessary prompt and context to provide general financial advice and guide a path to enter the financial world for beginners or, for experienced investors, introduce investment proposals in banking.
 
-**Live Demo**: <a href="https://asesor.fernandodilland.com" target="_blank">https://asesor.fernandodilland.com</a>
+**Live Demo**: <a href="https://coach.fernandodilland.com" target="_blank">https://coach.fernandodilland.com</a>
 
 ---
 
