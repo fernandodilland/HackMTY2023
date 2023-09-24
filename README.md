@@ -1,5 +1,5 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=social)](LICENSE)
-[![PHP Version Support](https://img.shields.io/packagist/php-v/chillerlan/php-qrcode?logo=php&style=social)](php)
+[![PHP Version Support](https://img.shields.io/packagist/php-v/chillerlan/php-qrcode?logo=php&style=social)](chatbot-chatgpt.php)
 
 # HackMTY2023 - WordPress Plugin
 
