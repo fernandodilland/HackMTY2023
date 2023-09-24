@@ -4,7 +4,7 @@
 # HackMTY2023 - WordPress Plugin
 
 <p align="center">
-    <em>Connected via ChatGPT API</em>
+    <em>Connected via ChatGPT API and preconfigured with prior context.</em>
 </p>
 
 <p>
