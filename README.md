@@ -8,13 +8,13 @@
 </p>
 
 <p>
-  This WordPress plugin was created at HackMTY 2023, a hackathon held at the facilities of Tecnologico de Monterrey
+  This WordPress plugin was created at HackMTY 2023, a hackathon held at the facilities of Tecnologico de Monterrey.
 </p>
 
-* Contributors: [Fernando Dilland](https://github.com/fernandodilland), [Omar Najera](https://github.com/theomarnajera), [Miguel del Castillo](https://github.com/migueldelcastillo)
-* Tags: plugin, theme, update, api, chat gpt
-* Requires at least: 5.2
-* Requires PHP: 7.2
+* Contributors: [Fernando Dilland](https://github.com/fernandodilland), [Omar Najera](https://github.com/theomarnajera), [Miguel del Castillo](https://github.com/migueldelcastillo).
+* Tags: plugin, theme, update, api, chat gpt.
+* Requires at least: 5.2.
+* Requires PHP: 7.2.
 
 ---
 
@@ -24,26 +24,26 @@
 
 ### Features
 
-- API/Model
-    - Ability to connect to the ChatGPT API Key (OpenAI)
-    - Ability to choose the ChatGPT Model Choice: gpt-3.5-turbo or gpt-4
-    - Ability to choose the Maximum Tokens Setting (100 to 1,000)
-    - Ability to provide conversation context
-- Settings
-  - Ability to assign a name to the bot
-  - Configure the initial state and new visitor
-  - Set the initial greeting
-  - Adjust subsequent greetings
-  - Include disclaimer (AI)
-  - Chatbot Width Setting
-  - Chatbot Diagnostics
-- Avatar
-    - Avatar Icon Setting
-    - Avatar Greeting
-- Knowledge Navigator
-    - Maximum Depth
-    - Maximum Top Words
-    - Run Knowledge Navigator
+- API/Model:
+    - Ability to connect to the ChatGPT API Key (OpenAI).
+    - Ability to choose the ChatGPT Model Choice: gpt-3.5-turbo or gpt-4.
+    - Ability to choose the Maximum Tokens Setting (100 to 1,000).
+    - Ability to provide conversation context.
+- Settings:
+  - Ability to assign a name to the bot.
+  - Configure the initial state and new visitor.
+  - Set the initial greeting.
+  - Adjust subsequent greetings.
+  - Include disclaimer (AI).
+  - Chatbot Width Setting.
+  - Chatbot Diagnostics.
+- Avatar:
+    - Avatar Icon Setting.
+    - Avatar Greeting.
+- Knowledge Navigator:
+    - Maximum Depth.
+    - Maximum Top Words.
+    - Run Knowledge Navigator.
 
 ### Installation
 
