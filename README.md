@@ -1,4 +1,5 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=social)](LICENSE)
+[![PHP Version Support](https://img.shields.io/packagist/php-v/chillerlan/php-qrcode?logo=php&style=social)](php)
 
 # HackMTY2023 - WordPress Plugin
 
@@ -21,8 +22,11 @@
 
 ---
 
-## Features
+### Features
 -
 
-## Getting Started
+### Getting Started
 -
+
+### Special thanks
+<img src="./assets/img/itesm.png" height="50"><br>
