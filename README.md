@@ -45,8 +45,19 @@
     - Maximum Top Words
     - Run Knowledge Navigator
 
-### Getting Started
--
+### Installation
+
+- To install and use this plugin, download the zip file by clicking the green "<> Code" button located in the GitHub repository.
+- Log in to your WordPress (CMS), whether hosted on a server or locally.
+- Go to Plugins > Add New or directly to the link: (domain/subdomain)/wp-admin/plugin-install.php
+- Click on "Upload Plugin" and select the zip file downloaded from the GitHub repository.
+- Press "Activate plugin" or go to Plugins > Add New and activate the "Chatbot ChatGPT" plugin.
+
+### Configuration
+
+- Go to Settings > Chatbot ChatGPT or directly to the link: (domain/subdomain)/wp-admin/options-general.php?page=chatbot-chatgpt
+- Enter your ChatGPT API Key obtained from https://platform.openai.com/account/api-keys
+- Choose the model, token settings, and context.
 
 ### Special thanks
 We extend our sincere gratitude to the Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM), commonly referred to as Tecnológico de Monterrey, situated at Av. Eugenio Garza Sada 2501 Sur, Tecnológico, 64849 Monterrey, N.L., and to the Major League Hacking, for their organization and facilitation of the "HackMTY 2023" Hackathon. This event took place on their premises, where open-source projects were diligently crafted, aiming for pioneering solutions.
