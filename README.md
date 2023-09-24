@@ -21,6 +21,11 @@
 
 ---
 
+### Case Study
+
+An example is conducted using information obtained from a national bank (Mexican) to establish parameters and create a financial "Coach" that primarily preloads the context of investment types and relevant yield information.
+The user is primarily allowed to provide their general information, such as age, monetary amount capable of investing, timeframe, and goals, so that ChatGPT has the necessary prompt and context to provide general financial advice and guide a path to enter the financial world for beginners or, for experienced investors, introduce investment proposals in banking.
+
 **Live Demo**: <a href="https://asesor.fernandodilland.com" target="_blank">https://asesor.fernandodilland.com</a>
 
 ---
@@ -61,6 +66,8 @@
 - Go to Settings > Chatbot ChatGPT or directly to the link: (domain/subdomain)/wp-admin/options-general.php?page=chatbot-chatgpt
 - Enter your ChatGPT API Key obtained from https://platform.openai.com/account/api-keys
 - Choose the model, token settings, and context.
+
+---
 
 ### Special thanks
 We extend our sincere appreciation to the Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM), commonly referred to as Tecnológico de Monterrey, located at Av. Eugenio Garza Sada 2501 Sur, Tecnológico, 64849 Monterrey, N.L., as well as the ACM Student Chapter and Major League Hacking for their organization and facilitation of the "HackMTY 2023" Hackathon. This event took place on their premises, where open-source projects were diligently crafted, aiming for pioneering solutions.
