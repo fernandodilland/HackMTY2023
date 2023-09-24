@@ -16,6 +16,9 @@
 * Requires at least: 5.2.
 * Requires PHP: 7.2.
 
+![Social image](assets/img/share.png)
+
+
 ---
 
 **Live Demo**: <a href="https://asesor.fernandodilland.com" target="_blank">https://asesor.fernandodilland.com</a>
