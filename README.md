@@ -29,4 +29,6 @@
 -
 
 ### Special thanks
+We extend our sincere gratitude to the Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM), commonly referred to as Tecnológico de Monterrey, situated at Av. Eugenio Garza Sada 2501 Sur, Tecnológico, 64849 Monterrey, N.L., and to the Major League Hacking, for their organization and facilitation of the "HackMTY 2023" Hackathon. This event took place on their premises, where open-source projects were diligently crafted, aiming for pioneering solutions.
+
 <img src="./assets/img/itesm.png" height="50"><br>
