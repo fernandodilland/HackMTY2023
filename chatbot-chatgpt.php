@@ -1,24 +1,9 @@
 <?php
 /*
  * Plugin Name: Chatbot ChatGPT
- * Plugin URI:  https://github.com/kognetiks/chatbot-chatgpt
+ * Plugin URI:  https://github.com/fernandodilland/HackMTY2023
  * Description: A simple plugin to add a Chatbot ChatGPT to your Wordpress Website.
- * Version:     1.6.2
- * Author:      Kognetiks.com
- * Author URI:  https://www.kognetiks.com
- * License:     GPLv2 or later
- * License URI: https://www.gnu.org/licenses/gpl-2.0.html
- *  
- * This program is free software; you can redistribute it and/or modify it under the terms of the GNU
- * General Public License version 2, as published by the Free Software Foundation. You may NOT assume
- * that you can use any other version of the GPL.
- * 
- * This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without
- * even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
- * 
- * You should have received a copy of the GNU General Public License
- * along with Chatbot ChatGPT. If not, see https://www.gnu.org/licenses/gpl-2.0.html.
- * 
+ *
 */
 
 // If this file is called directly, die.
